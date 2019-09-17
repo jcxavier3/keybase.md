@@ -1,0 +1,66 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am jcxavier3 on github.
+  * I am xavier3 (https://keybase.io/xavier3) on keybase.
+  * I have a public key ASCK0_xL4foXIQTYNRW6FSGZqJR-VTS2WzL1vYQyN-nSygo
+
+To claim this, I am signing this object:
+
+json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208ad3fc4be1fa172104d83515ba152199a8947e5534b65b32f5bd843237e9d2ca0a",
+      "host": "keybase.io",
+      "kid": "01208ad3fc4be1fa172104d83515ba152199a8947e5534b65b32f5bd843237e9d2ca0a",
+      "uid": "f57d3c36bf3f6bcdec9f5bc1589b9a19",
+      "username": "xavier3"
+    },
+    "merkle_root": {
+      "ctime": 1568727573,
+      "hash": "929b79d7111e3778aa48107e01ff045ec045867347698772558383064f4ab66cabeae44a8cf37792eb0d6e72e0cb8396e1bf5d4c0c7deaa11fd24d7765177b5b",
+      "hash_meta": "6a13c612d9aaa516a1365559f43f2e4672f841dbaffe3c4e9ded6a4940a22a1c",
+      "seqno": 7519045
+    },
+    "service": {
+      "entropy": "9NBKFCJihGr1Yzfu7SGU/c6U",
+      "name": "github",
+      "username": "jcxavier3"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568727592,
+  "expire_in": 504576000,
+  "prev": "e93eff6720924a6556bd87d65e4409816f468800444de1498c7e5205d6389b3f",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+
+with the key [ASCK0_xL4foXIQTYNRW6FSGZqJR-VTS2WzL1vYQyN-nSygo](https://keybase.io/xavier3), yielding the signature:
+
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgitP8S+H6FyEE2DUVuhUhmaiUflU0tlsy9b2EMjfp0soKp3BheWxvYWTESpcCDsQg6T7/ZyCSSmVWvYfWXkQJgW9GiABETeFJjH5SBdY4mz/EIAvVmz2okEAODng2TGAGb98KkOs5IRUPq4NzFCaUrxGyAgHCo3NpZ8RAq4hwDxbJIcDdJyKKMRZYqe1WJxfafLc+ErgkwbbMVMCNBBJOC26IVDD4zYRI6l64N7cK/aWVIhXBsr0DApHrDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIznd5wnidSZH1N4cVqAbhUl8sBv3glTYNeKAZsu7Fgso3RhZ80CAqd2ZXJzaW9uAQ==
+
+
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/xavier3
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+bash
+# look me up
+keybase id xavier3
